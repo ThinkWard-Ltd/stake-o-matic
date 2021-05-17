@@ -8,7 +8,7 @@ publish = false
 
 [dependencies]
 solana-program = "1.6.8"
-borsh = "0.8"
+borsh = "0.9"
 borsh-derive = "0.8.1"
 
 [features]
